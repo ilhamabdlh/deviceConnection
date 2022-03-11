@@ -20,16 +20,16 @@ here, I assemble a Telnet connection according to topology that has been made by
 
 
 ### PC B as Server
-IP Private: 192.168.254.152
-IP Public: 103.164.99.6
+- IP Private: 192.168.254.152
+- IP Public: 103.164.99.6
 
 ### PC A as Client 1
-IP Private: 192.168.43.55
-IP Public: 116.206.13.170
+- IP Private: 192.168.43.55
+- IP Public: 116.206.13.170
 
 ### PC C as Client 2
-IP Private: 172.20.10.2
-IP Public: 112.215.65.92
+- IP Private: 172.20.10.2
+- IP Public: 112.215.65.92
 
 ## Work
 
