@@ -74,5 +74,10 @@ telnet 103.164.99.6 24
 ```
 On the server you will see that there are two connected clients.
 
+Clients can communicate with each other using the "/msg" prefix and forwarded with the message content
+```bash
+/msg halo i send you message
+```
+
 Clients will communicate with each other because they are in the same room.
 Telnet that I made, can load connections with many clients. can accommodate hundreds of client connections and ROOM made. so communication between User and Device can be made without being disturbed by different types of devices.
