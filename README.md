@@ -15,7 +15,7 @@ here, I assemble a Telnet connection according to topology that has been made by
 
 ## telnet capture
 
-![telnet](https://user-images.githubusercontent.com/72017753/157817484-f78581be-cfe3-4049-a4f3-ba024b367804.PNG)
+![telnet](https://user-images.githubusercontent.com/72017753/157822629-4b3f4841-3157-4871-9895-73edb76ef86f.png)
 
 
 ### PC B as Server
