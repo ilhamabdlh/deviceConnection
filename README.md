@@ -66,7 +66,7 @@ telnet 103.164.99.6 24
 ```
 - On PC C, the user must create a Device name, like "/user Swith1234":
 ```bash
- /user liham
+ /user switch1234
 ```
 - then, device must input the room that has been created by PCA, like "/join okraRoom" with the same room name.
 ```bash
@@ -76,7 +76,7 @@ On the server you will see that there are two connected clients.
 
 Clients can communicate with each other using the "/msg" prefix and forwarded with the message content
 ```bash
-/msg halo i send you message
+/msg halo, i send you message
 ```
 
 Clients will communicate with each other because they are in the same room.
