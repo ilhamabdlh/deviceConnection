@@ -37,7 +37,7 @@ IP Public: 112.215.65.92
 I open Port 24 on the server, that clients can connect to each other.
 first, Server must be running:
 ```bash
-      go run .
+go run .
 ```
 and then, the server will open port 24 and waiting for a client to connect.
 
@@ -46,31 +46,31 @@ and then, the server will open port 24 and waiting for a client to connect.
 First, "PC A" must be connected to the server via Command Prompt. I require client to communicate with the server's IP Public.
 on command prompt "PC A" input:  
 ```bash
-      telnet 103.164.99.6 24
+telnet 103.164.99.6 24
 ```
 - After that on the server side an incoming notification will appear, that PC A has successfully connected to the server.
 - On pc A, the user must create a username, like "/user examplename":
 ```bash
-      /user liham
+/user liham
 ```
 - After that, PC C must create a ROOM which is a place to communicate with PC C as a device or client. example like "/join okraRoom"
 ```bash
-      /join okraRoom
+/join okraRoom
 ```
 
 ### PC C as Device Client
 
 - Same as "PC A", first thing to do with "PC C" is connect to IP Public server.
 ```bash
-      telnet 103.164.99.6 24
+telnet 103.164.99.6 24
 ```
 - On PC C, the user must create a Device name, like "/user Swith1234":
 ```bash
-      /user liham
+ /user liham
 ```
 - then, device must input the room that has been created by PCA, like "/join okraRoom" with the same room name.
 ```bash
-      /join okraRoom
+/join okraRoom
 ```
 On the server you will see that there are two connected clients.
 
