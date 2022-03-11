@@ -4,6 +4,7 @@
 
 Im trying to build a network with VPN Tunnel, let's look the topology, there is a server is the control for networks that will communicate. In topology, I set PC B as a server to control the connection between clients. Then, and I set PC C to be Client1, I liken PC C to Atop device. and I set PC A to be Client2, as a User who want to access the device.
 
+## Topology
 ![image](https://user-images.githubusercontent.com/72017753/157813568-a9213801-44b9-464f-88b8-e4b6cf4f6982.png)
 
 ## Study VPN
@@ -13,7 +14,7 @@ Here I found some uses of telnet which are almost similar to vpn. Through telnet
 
 here, I assemble a Telnet connection according to topology that has been made by Alan. so that clients can communicate with each other. You can see it below.
 
-## telnet capture
+## Telnet Capture
 
 ![telnet](https://user-images.githubusercontent.com/72017753/157822629-4b3f4841-3157-4871-9895-73edb76ef86f.png)
 
