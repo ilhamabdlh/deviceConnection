@@ -82,4 +82,4 @@ Clients can communicate with each other using the "/msg" prefix and forwarded wi
 Clients will communicate with each other because they are in the same room.
 Telnet that I made, can load connections with many clients. can accommodate hundreds of client connections and ROOM made. so communication between User and Device can be made without being disturbed by different types of devices.
 
-Further explanation for the VPN tunnel will be continued on another page, [you can click here](https://github.com/ilhamabdlh/vpn-tunnel)
+Further explanation for the VPN tunnel will be continued on another page, [you can click here](https://github.com/ilhamabdlh/vpn-tun)
